@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimo4", "Algoritimo4\Algoritimo4.csproj", "{831FE6EC-16B7-412E-AB68-50D3A60D9965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831FE6EC-16B7-412E-AB68-50D3A60D9965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831FE6EC-16B7-412E-AB68-50D3A60D9965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831FE6EC-16B7-412E-AB68-50D3A60D9965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831FE6EC-16B7-412E-AB68-50D3A60D9965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9AFC624-B989-4675-8D1F-81B9DCE799F8}
+	EndGlobalSection
+EndGlobal
